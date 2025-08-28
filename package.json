@@ -22,6 +22,7 @@
   "homepage": "https://github.com/irfandwisamudra/openmusic-api-v1#readme",
   "dependencies": {
     "@hapi/hapi": "^21.4.3",
+    "auto-bind": "^4.0.0",
     "dotenv": "^17.2.1",
     "joi": "^18.0.1",
     "nanoid": "^5.1.5",
